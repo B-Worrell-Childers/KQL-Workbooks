@@ -1,1 +1,1 @@
-This is a repository of KQL Workbooks for Microsoft Sentinel I have created over the years. Most produce too many results for signature creation, and therefore are more useful for threat hunting. 
+This is a repository of some of the KQL Workbooks for Microsoft Sentinel I have created over the years. Most produce too many results for signature creation, and therefore are more useful for threat hunting. 
